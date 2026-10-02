@@ -1,2 +1,2 @@
-# checklist-tracker
-A website that provides daily and weekly checklist views. Users will also be able to see how much of their checklist they have completed for the day and week.
+# Learn Japanese With Me
+I am currently learning Japanese, and thought this could be a fun way to help me and others learn more! This website will not only help me get better with my Japanese, but also further improve my web dev skills!
